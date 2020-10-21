@@ -1,0 +1,6 @@
+[submodule "final-board-project/final-board-project/bertac-ihab/weekly-workout-planner"]
+	path = final-board-project/final-board-project/bertac-ihab/weekly-workout-planner
+	url = git@github.com:ihab-sensei/weekly-workout-planner.git
+[submodule "final-board-project/bertac-ihab/weekly-workout-planner"]
+	path = final-board-project/bertac-ihab/weekly-workout-planner
+	url = git@github.com:ihab-sensei/weekly-workout-planner.git
